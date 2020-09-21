@@ -1,3 +1,5 @@
+require_relative "./dancer.rb"
+
 class Kid
   extend MetaDancing
   include Dance
