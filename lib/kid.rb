@@ -1,4 +1,4 @@
-require_relative "./dancer.rb"
+require_relative "./dance_module.rb"
 
 class Kid
   extend MetaDancing
