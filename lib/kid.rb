@@ -1,5 +1,6 @@
 require_relative './fancy_dance.rb'
 
-class Kid 
+class Kid
+  include Dance
 
-end 
+end
